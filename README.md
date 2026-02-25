@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**KawasakiCode/KawasakiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kawasaki a CS student and programmer based in Greece
 
-Here are some ideas to get you started:
+I mostly experiment with android app development and creating simply AI models -- Flutter, Dart, Python, Pytorch
+I also have some experience with Python backend specifically FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this profile I upload all my projects which are built from scratch
+
+<hr>
+
+Tools & Tech
+<ul>
+  <li>Flutter, Dart, Android Studio</li>
+  <li>Python, Pytorch, Tensorflow</li>
+</ul>
+
+
