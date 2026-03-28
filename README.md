@@ -92,7 +92,7 @@ class Kawasaki:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=8892a4)](https://github.com/KawasakiCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=8892a4)](https://linkedin.com/in/pantelis-remvos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=8892a4)](https://linkedin.com/in/pantelis-remvos-659a96393)
 [![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=8892a4)](mailto:remvosp@gmail.com)
 
 </div>
