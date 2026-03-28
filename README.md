@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kawasaki&fontSize=70&fontColor=00f5d4&fontAlignY=38&desc=CS%20Student%20%7C%20ML%20Engineer%20in%20Training%20%7C%20Greece&descAlignY=58&descSize=18&descColor=a8edea&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kawasaki&fontSize=70&fontColor=8892a4&fontAlignY=38&desc=CS%20Student%20%7C%20ML%20Engineer%20in%20Training%20%7C%20Greece&descAlignY=58&descSize=18&descColor=b0bec5&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Flutter;Training+neural+networks+with+PyTorch;Experimenting+with+AI+%26+ML+models;Turning+caffeine+into+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8892a4&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Flutter;Training+neural+networks+with+PyTorch;Experimenting+with+AI+%26+ML+models;Turning+caffeine+into+code" alt="Typing SVG" />
 
 <!-- PROFILE VIEWS BADGE -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=KawasakiCode&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KawasakiCode&style=for-the-badge&color=8892a4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -62,15 +62,15 @@ class Kawasaki:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KawasakiCode&show_icons=true&theme=midnight-purple&bg_color=0d0d1a&border_color=00f5d4&icon_color=00f5d4&title_color=00f5d4&text_color=a8edea&hide_border=false&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KawasakiCode&show_icons=true&theme=midnight-purple&bg_color=0d0d1a&border_color=8892a4&icon_color=8892a4&title_color=8892a4&text_color=b0bec5&hide_border=false&rank_icon=github" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawasakiCode&layout=compact&theme=midnight-purple&bg_color=0d0d1a&border_color=00f5d4&title_color=00f5d4&text_color=a8edea&hide_border=false&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawasakiCode&layout=compact&theme=midnight-purple&bg_color=0d0d1a&border_color=8892a4&title_color=8892a4&text_color=b0bec5&hide_border=false&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=KawasakiCode&theme=dark&background=0d0d1a&border=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=a8edea&dates=a8edea&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=KawasakiCode&theme=dark&background=0d0d1a&border=8892a4&ring=8892a4&fire=ff6b6b&currStreakLabel=8892a4&sideLabels=b0bec5&dates=b0bec5&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
 
 </div>
 
@@ -91,9 +91,9 @@ class Kawasaki:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/KawasakiCode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://linkedin.com/in/pantelis-remvos)
-[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:remvosp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=8892a4)](https://github.com/KawasakiCode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=8892a4)](https://linkedin.com/in/pantelis-remvos)
+[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=8892a4)](mailto:remvosp@gmail.com)
 
 </div>
 
