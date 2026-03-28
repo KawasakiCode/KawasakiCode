@@ -1,18 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-I'm Kawasaki a CS student and programmer based in Greece
+<!-- HEADER WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kawasaki&fontSize=70&fontColor=00f5d4&fontAlignY=38&desc=CS%20Student%20%7C%20ML%20Engineer%20in%20Training%20%7C%20Greece&descAlignY=58&descSize=18&descColor=a8edea&animation=fadeIn" width="100%"/>
 
-I mostly experiment with android app development and creating simply AI models -- Flutter, Dart, Python, Pytorch
-I also have some experience with Python backend specifically FastAPI
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Android+apps+with+Flutter;Training+neural+networks+with+PyTorch;Experimenting+with+AI+%26+ML+models;Turning+caffeine+into+code" alt="Typing SVG" />
 
-In this profile I upload all my projects which are built from scratch
+<!-- PROFILE VIEWS BADGE -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=KawasakiCode&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-<hr>
+</div>
 
-Tools & Tech
-<ul>
-  <li>Flutter, Dart, Android Studio</li>
-  <li>Python, Pytorch, Tensorflow</li>
-</ul>
+---
+
+## About Me
+
+```python
+class Kawasaki:
+    location    = "Greece"
+    education   = "Computer Science Student"
+    passions    = ["Machine Learning", "Neural Networks", "Android Dev"]
+    currently   = "Deep-diving into deep learning"
+    goal        = "Build intelligent systems that actually work"
+    fun_fact    = "I build everything from scratch — no shortcuts"
+```
+
+- Obsessed with **Machine Learning & Neural Networks** — this is where I want to build my career
+- I develop **Android apps** using Flutter & Dart as my creative outlet
+- Python is my daily driver, powering everything from AI models to backend APIs
+- Built FastAPI backends and know my way around REST architecture
+- Every repo here is **built from scratch** — I don't believe in cargo-culting
+
+---
+
+## Tech Stack
+
+### AI / ML
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+</div>
+
+### Mobile & Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php&theme=dark" />
+</div>
+
+### Systems & Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,fastapi&theme=dark" />
+</div>
+
+### Tools & IDEs
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,visualstudio,git,github&theme=dark" />
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KawasakiCode&show_icons=true&theme=midnight-purple&bg_color=0d0d1a&border_color=00f5d4&icon_color=00f5d4&title_color=00f5d4&text_color=a8edea&hide_border=false&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawasakiCode&layout=compact&theme=midnight-purple&bg_color=0d0d1a&border_color=00f5d4&title_color=00f5d4&text_color=a8edea&hide_border=false&langs_count=8" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=KawasakiCode&theme=dark&background=0d0d1a&border=00f5d4&ring=00f5d4&fire=ff6b6b&currStreakLabel=00f5d4&sideLabels=a8edea&dates=a8edea&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
+
+</div>
+
+---
+
+## What I'm Working On
+
+```
+- Exploring transformer architectures & attention mechanisms
+- Building Flutter apps with smart ML-powered features
+- Learning CUDA & GPU-accelerated computing for training efficiency
+- Contributing to open-source ML tooling
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/KawasakiCode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00f5d4)](https://linkedin.com/in/pantelis-remvos)
+[![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=00f5d4)](mailto:remvosp@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"The best way to understand a neural network is to build one from scratch."</i>
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 
