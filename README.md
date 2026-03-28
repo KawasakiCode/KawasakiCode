@@ -61,10 +61,15 @@ class Kawasaki:
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-rgyr1e388-kawasakicodes-projects.vercel.app/api?username=KawasakiCode&show_icons=true&theme=midnight-purple&bg_color=0d0d1a&border_color=8892a4&icon_color=8892a4&title_color=8892a4&text_color=b0bec5&hide_border=false&rank_icon=github" height="170"/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KawasakiCode&bg_color=0d0d1a&color=8892a4&line=8892a4&point=b0bec5&area=true&area_color=8892a4&hide_border=false&border_color=8892a4" width="100%"/>
+ 
 </div>
+ 
 <div align="center">
+ 
 <img src="https://streak-stats.demolab.com/?user=KawasakiCode&theme=dark&background=0d0d1a&border=8892a4&ring=8892a4&fire=ff6b6b&currStreakLabel=8892a4&sideLabels=b0bec5&dates=b0bec5&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
+ 
 </div>
 
 ---
