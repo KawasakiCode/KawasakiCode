@@ -43,17 +43,17 @@ class Kawasaki:
 
 ### Mobile & Frontend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 </div>
 
 ### Systems & Backend
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,fastapi&theme=dark" />
 </div>
 
 ### Tools & IDEs
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,visualstudio,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github&theme=dark" />
 </div>
 
 ---
