@@ -59,12 +59,6 @@ class Kawasaki:
 ---
 
 ## GitHub Stats
-
-<div align="center">
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KawasakiCode&bg_color=0d0d1a&color=8892a4&line=8892a4&point=b0bec5&area=true&area_color=8892a4&hide_border=false&border_color=8892a4" width="100%"/>
- 
-</div>
  
 <div align="center">
  
